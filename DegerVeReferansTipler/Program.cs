@@ -9,9 +9,9 @@ namespace DegerVeReferansTipler //Bu konuyu anlarsak yazılım hayatı çok kola
             Console.WriteLine("Hello World!");
 
             int sayi1 = 10;
-            int sayi2 = 30;
+            int sayi2 = 30;  
             sayi1 = sayi2;
-            sayi2 = 65;
+            sayi2 = 65;  
             //sayi1 ??? = Artık 30 olur 
 
 
