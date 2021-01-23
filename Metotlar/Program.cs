@@ -27,13 +27,13 @@ namespace Metotlar
               
             }
 
-            Console.WriteLine("\n\n\n-----------Metotlar----------");
+            Console.WriteLine("\n\n\n-----------Metotlar----------");  
 
 
 
             //instance - örnek -- aşağıda sepetAmanager sııfının örneğini oluşturdum.
             //encapsulation
-            Console.WriteLine("\n-------Ekle MEtodu---------");
+            Console.WriteLine("\n-------Ekle MEtodu---------");  
             SepetManager sepetManager = new SepetManager();
             sepetManager.Ekle(urun1);
             sepetManager.Ekle(urun2);
